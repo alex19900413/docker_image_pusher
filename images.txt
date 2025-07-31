@@ -1,2 +1,2 @@
 
-scllovewkf/opencalib:v1
+lihanchen2004/ogm2pgbm:latest
